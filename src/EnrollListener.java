@@ -11,6 +11,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 public class EnrollListener implements ActionListener {
+    // 这是一段注释
     private JTextField tuser; // 用户名输入框
     private JPasswordField tpassword; // 密码输入框
 
