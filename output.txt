@@ -1,0 +1,3 @@
+Hello,this is a test.
+Java FileWriter example.
+Have a great day!
